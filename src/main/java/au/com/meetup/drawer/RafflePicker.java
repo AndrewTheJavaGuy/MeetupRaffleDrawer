@@ -28,6 +28,7 @@ public class RafflePicker {
     private static final SecureRandom random = new SecureRandom();
 
     // For you non-programmers, everything starts at 0 instead of 1
+    // https://blog.usejournal.com/arrays-start-at-zero-whats-up-with-that-f2d1054c9b77
 
     private static final int USER_NAME_FIELD = 0;
 
